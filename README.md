@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @leo-feingold.
 - 👀 I’m interested in robotics, artificial intelligence and statistics.
-- 🌱 I’m currently learning about data frames and using them to find patterns in major league baseball.
 - 📫 How to reach me: leofe2626@gmail.com
+
+I am currently a high school senior at the Abraham Joshua Heschel School.
 
 <!---
 leo-feingold/leo-feingold is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
